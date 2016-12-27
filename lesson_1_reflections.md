@@ -1,3 +1,5 @@
+#Lession 1 Reflections
+
 *How did viewing a diff between two versions of a file help you see the bug that was introduced?*
 
 It pin pointed the changes that were made between the two files. So then all I needed to do was 
