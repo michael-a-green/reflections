@@ -31,7 +31,7 @@ If you want to protect your code and the changes to your code from loss, it's go
 an online backup. In this case you get it for free.
 
 Having a remote repository enables you to more easily collaborate with others (get people 
-help you develop, document, or verify your code). You don't have to setup your own 
+to help you develop, document, or verify your code). You don't have to setup your own 
 repo server GitHub has done that for you.
 
 If you want to publish something to a wide audience you can do so with GitHub. That way 
